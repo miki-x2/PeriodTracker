@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.10847628657921292" />
+        <entry key="app/src/main/res/layout-v21/fragment_second.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.12740487387772553" />
+        <entry key="app/src/main/res/layout/content_cycle.xml" value="0.20942883046237534" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.231722958529286" />
+        <entry key="app/src/main/res/layout/cycle_overview.xml" value="0.20942883046237534" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.15168539325842698" />
+        <entry key="app/src/main/res/layout/fragment_history.xml" value="0.20942883046237534" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_mood.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.23162393162393163" />
+        <entry key="app/src/main/res/layout/fragment_third.xml" value="0.231722958529286" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
